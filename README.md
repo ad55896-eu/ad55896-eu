@@ -1,7 +1,9 @@
+# Coucoux ! 🦜
+
 - 👋 Bonjour, moi c'est @ad55896-eu
 - 👀 Je suis particulièrement interessé au devlopement web 
-- 🌱 Je apprends actuellement les languages web (Javascript, HTML et CSS) 
-- 💞️ Pour l'instant, je ne cherche pas de coloboration (car je pense que je ne suis pas assez competent pour le moment) 
+- 🌱 J'apprends actuellement les languages web (Javascript, HTML et CSS) 
+- 💞️ On est mieux servi que par soit même donc pas de coloboration **(pour le moment)**. 
 - 📫 (Vide pour l'instant, a venir) 
 
 <!---
