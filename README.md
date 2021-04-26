@@ -17,3 +17,5 @@
 ## Autres statistiques : 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ad55896-eu&show_icons=true&theme=radical)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ad55896-eu)](https://github.com/anuraghazra/github-readme-stats)
