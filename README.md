@@ -10,12 +10,9 @@
 
 ## Languages que j'utilise le plus actuellement : 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ad55896-eu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br />
 
 ## Autres statistiques : 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ad55896-eu&show_icons=true&theme=radical)
-
 
