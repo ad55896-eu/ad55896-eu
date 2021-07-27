@@ -1,8 +1,8 @@
 # Coucoux ! 🦜 
 
 •  👋 Moi c'est Ivaylo. <br />
-• 💻 Je m'interesse particulièrement au développement web <br />
-• 📚 J'apprends actuellement tout les languages web de type **front** (HTML, JS et CSS). <br />
+• 💻 Je m'interesse particulièrement au développement web mais aussi à la musique <br />
+• 📚 J'apprends actuellement tout les languages web de type **front** (HTML, JS et CSS) mais aussi aux d'autres langages de programmation. <br />
 • 🔰 Pour l'instant je ne **cherche pas** à collaborer avec d'autres personnes pour des futurs projets. Ceci est **succeptible de changer**.  <br />
 • 🗃️ Pour me contacter : <br />
 - ☄️ **Mon discord** : トトロ #6417
